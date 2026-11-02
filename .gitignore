@@ -1,0 +1,14 @@
+# Local proxy credentials and test results
+/listOfProxy.json
+/ProxyWorks.txt
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments and local environment files
+.venv/
+venv/
+.env
+.env.*
+!.env.example
